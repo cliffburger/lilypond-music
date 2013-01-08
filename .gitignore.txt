@@ -1,0 +1,3 @@
+# Ignore lilypond output
+*.pdf
+*.midi
